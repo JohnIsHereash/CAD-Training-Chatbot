@@ -1,1 +1,1 @@
-tsx export default function Login() { return null; }
+export const supabase = null as any;
